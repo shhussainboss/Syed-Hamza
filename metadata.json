@@ -1,0 +1,5 @@
+{
+  "name": "Hamza AI Agent",
+  "description": "A conversational AI agent named Hamza, powered by Google's Gemini API. Engage in a dynamic and intelligent chat experience in a sleek, modern interface.",
+  "requestFramePermissions": []
+}
